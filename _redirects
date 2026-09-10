@@ -1,0 +1,3 @@
+# No redirects needed. Cloudflare Pages resolves clean URLs and
+# slug/index.html routing natively. Add real 301s here only for
+# genuine cross-domain or legacy-path redirect needs.
