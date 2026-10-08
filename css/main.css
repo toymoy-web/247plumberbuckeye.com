@@ -161,6 +161,7 @@ nav{background:#fff;box-shadow:0 1px 0 var(--border)}
 .herocall .lbl{font-family:var(--font-body);text-transform:none;color:var(--text-muted);font-size:12px;letter-spacing:.02em;font-weight:600}
 .herocall .num{font-family:var(--font-head);font-weight:700;font-size:26px;color:var(--accent);margin:6px 0 12px}
 @media(max-width:768px){.herocall .btn{display:none}}
+.inline-img{display:block;width:100%;max-width:720px;height:auto;border-radius:12px;margin:24px 0;box-shadow:var(--shadow-lg)}
 .service-hero-img{width:100%;height:auto;max-height:420px;object-fit:cover;border-radius:12px;margin:28px 0;box-shadow:var(--shadow-lg)}
 .twocol{display:grid;grid-template-columns:1fr 330px;gap:40px;align-items:start}
 .sidecard{background:var(--primary);color:#fff;border-radius:10px;padding:26px;position:sticky;top:96px}
